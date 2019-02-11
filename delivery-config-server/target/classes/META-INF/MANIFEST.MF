@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: anabeatriz
+Build-Jdk: 10.0.1
+Implementation-Title: delivery-config-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ifood
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/delivery-config-server
+Created-By: Maven Integration for Eclipse
+
