@@ -36,3 +36,7 @@ security:
   oauth2:
     resource:
       userInfoUri: ${authserver.hostname}/user
+
+taco-api:
+    url: http://localhost:4000/api/v1/
+    name: tacoApi
